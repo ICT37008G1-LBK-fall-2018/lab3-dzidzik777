@@ -1,5 +1,5 @@
 let student_amount = +prompt("Select Amount of Student");
-let student_name = ['Sergi', 'Robi', 'Nodo', 'Lasha', 'Oto'];
+let student_name = ['Luka', 'Beqa', 'Leri', 'Lasha', 'Oto'];
 if (student_amount > student_name.length || student_amount <= 0) {
  alert("arasworia, sheitanet 10ze naklebi");
 }    
